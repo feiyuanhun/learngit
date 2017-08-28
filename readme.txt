@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is difference.
 Creating a new branch is quick And simple.
-add a new line.
+add a new line and merge to dev.
